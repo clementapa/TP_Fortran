@@ -1,0 +1,10 @@
+program suite
+  implicit none
+
+  integer::u1,u0,i,N
+
+  write(*,"('Veuillez indiquer le rang N:')",advance='no')
+  read(*,*)N
+
+end program suite
+  
